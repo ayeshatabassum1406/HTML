@@ -16,3 +16,12 @@ git pull
 
 to see logs 
 git log
+
+to see the user name  of git 
+git config --global user.name
+
+to see the user email  of git 
+git config --global user.email
+
+to see the user name  of git 
+git config --global user.email "ayeshatab1406@gmail.com"
