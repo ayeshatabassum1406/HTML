@@ -25,3 +25,8 @@ git config --global user.email
 
 to see the user name  of git 
 git config --global user.email "ayeshatab1406@gmail.com"
+
+//to delete file from repo
+git add -u //stages all modified and deleted files
+git commit -u "commit"
+git push -u origin master
